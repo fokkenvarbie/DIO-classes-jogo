@@ -1,5 +1,5 @@
 <h1>Classificador de Ataques de Heróis</h1>
-Um programa em JavaScript que representa heróis de League of Legends e exibe seus ataques de acordo com a classe de cada campeão. O sistema permite definir nome e classe do herói e exibe no console a ação realizada.
+Um programa em JavaScript que exibe seus ataques de acordo com a classe de cada campeão. O sistema permite definir nome e classe do herói e exibe no console a ação realizada.
 
 - **Funcionalidades:**
   - **Definição de heróis:** Permite criar heróis com nome e classe (Mago, Guerreiro, Monge ou Ninja).
